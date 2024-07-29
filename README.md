@@ -2,7 +2,7 @@
 
 Welcome to the Virtual Shooting Game! This game utilizes your webcam and hand gestures to simulate a shooting experience. Use your hand to aim and shoot targets on the screen, all while enjoying a dynamic and engaging gameplay experience.
 
-![Screenshot](screenshot.png) 
+![Screenshot](Screenshot.png) 
 
 ## Features
 - 📷 **Webcam Integration**: Utilizes Mediapipe to detect hand gestures and track movements.
